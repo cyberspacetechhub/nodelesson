@@ -1,0 +1,7 @@
+20240528	14:17:39	173f0543-55e5-4373-9fd3-30a726f14726	Error: Not allowed by CORS
+20240612	13:00:23	93010fde-47cd-43dd-9dcc-484145c50e32	TypeError: req.json is not a function
+20240612	13:01:14	548b5020-9ba7-4765-b7a4-22fb5e0fc9d4	TypeError: req.json is not a function
+20240612	13:02:11	edafad88-8daf-4f59-a3ee-9ced6ac63349	TypeError: req.json is not a function
+20240612	13:02:19	31f036cc-247b-415b-a69f-051982ee117f	TypeError: req.json is not a function
+20240612	13:03:11	7ce045ad-fb10-4553-9ec5-a7831a781ba8	TypeError: req.json is not a function
+20240612	13:11:07	df5b1da0-c6e2-49cb-a4b9-a7e778ed2f10	TypeError: Cannot read properties of undefined (reading 'id')
